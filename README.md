@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Having another attempt at getting a docker system set up for developing the Rocktrack application I am thing about.
 
-Things you may want to cover:
+Currently following the [guides](https://guides.rubyonrails.org/getting_started.html) getting started with dev container, then the Getting Started with Rails.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+More news when I get some...
